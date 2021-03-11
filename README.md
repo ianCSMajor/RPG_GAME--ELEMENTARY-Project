@@ -1,8 +1,10 @@
 # Elementary
  Authors: [Richard Tobing](https://github.com/Koogleblitz),
+  	  [Ian Oh](https://github.com/ianCSMajor),
  	  [Sanat Mishra](https://github.com/SanatMishra),
-	    [Ian Oh](https://github.com/ianCSMajor),
 	    [Ian Kim](https://github.com/yanathan)
+
+![Screenshot (550)](https://user-images.githubusercontent.com/57507406/110731639-8d175380-81d7-11eb-9df5-92ce603b1b6f.png)
 
 ## Project Description
 This Project is a turn-based RPG with battle mechanics roughly based on pokemon. Its focus is the interaction between the four Greek elements; fire, earth, wind, and water.  Each element has one element that it is strong against, and one that it is weak against. The battle system essentially works like rock-paper-scissors, in which you choose an element-based attack, and your enemy does the same, and each turn, you and your enemy exchange attacks. The effectiveness of you and your enemy's attack is based on how the chosen element of each party interacts against the other.
