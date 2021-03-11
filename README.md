@@ -4,7 +4,8 @@
  	  [Sanat Mishra](https://github.com/SanatMishra),
 	    [Ian Kim](https://github.com/yanathan)
 
-![Screenshot (550)](https://user-images.githubusercontent.com/57507406/110731639-8d175380-81d7-11eb-9df5-92ce603b1b6f.png)
+![Screenshot (534)](https://user-images.githubusercontent.com/57507406/110731708-b3d58a00-81d7-11eb-9299-757f6461786d.png)
+
 
 ## Project Description
 This Project is a turn-based RPG with battle mechanics roughly based on pokemon. Its focus is the interaction between the four Greek elements; fire, earth, wind, and water.  Each element has one element that it is strong against, and one that it is weak against. The battle system essentially works like rock-paper-scissors, in which you choose an element-based attack, and your enemy does the same, and each turn, you and your enemy exchange attacks. The effectiveness of you and your enemy's attack is based on how the chosen element of each party interacts against the other.
@@ -59,9 +60,11 @@ Class Diagram Description:
  > Before the demo, you should do the following:
  > * Complete the sections below (i.e. Screenshots, Installation/Usage, Testing)
  > * Plan one more sprint (that you will not necessarily complete before the end of the quarter). Your In-progress and In-testing columns should be empty (you are not doing more work currently) but your TODO column should have a full sprint plan in it as you have done before. This should include any known bugs (there should be some) or new features you would like to add. These should appear as issues/cards on your Kanban board. 
- 
+ ![Screenshot (534)](https://user-images.githubusercontent.com/57507406/110731705-b1733000-81d7-11eb-8ff6-e43362e873c8.png)
+
  ## Screenshots
  > Screenshots of the input/output after running your application
+ > ![Screenshot (550)](https://user-images.githubusercontent.com/57507406/110731639-8d175380-81d7-11eb-9df5-92ce603b1b6f.png)
  > ![Screenshot (536)](https://user-images.githubusercontent.com/57507406/110699994-4a885380-81a4-11eb-95c6-0ea47f86353c.png)
 ![Screenshot (537)](https://user-images.githubusercontent.com/57507406/110700029-54aa5200-81a4-11eb-9175-db6968ca395d.png)
 ![Screenshot (538)](https://user-images.githubusercontent.com/57507406/110700047-5aa03300-81a4-11eb-9c41-2b705cde0ffd.png)
