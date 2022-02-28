@@ -1,7 +1,7 @@
 # Elementary
- Authors: [Richard Tobing](https://github.com/Koogleblitz),
+ Authors: [Ian Oh](https://github.com/ianCSMajor),
+	  [Richard Tobing](https://github.com/Koogleblitz),
  	  [Sanat Mishra](https://github.com/SanatMishra),
-	    [Ian Oh](https://github.com/ianCSMajor),
 	    [Ian Kim](https://github.com/yanathan)
 
 ## Project Description
